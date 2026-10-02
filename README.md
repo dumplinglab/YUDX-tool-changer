@@ -2,8 +2,6 @@
 
 An open-source automatic tool-changing system for 3D printers that enables **1-second tool changes with almost zero waste**.
 
-> 🚧 A major version update is coming soon and will be pushed to GitHub in the next few days.
-
 ## ✨ Key Features
 
 - **~1 second tool change** — near-instant switching between tool heads, and dramatically reducing purge/waste material compared to traditional multi-material setups.
@@ -34,7 +32,7 @@ If you are running **Klipper**, you will need to write your own tool-change macr
 
 ## 💬 Community
 
-Join the Discord: [https://discord.gg/vE4ExaVR3](https://discord.gg/vE4ExaVR3)
+Join the Discord: [https://discord.gg/huHw8kzNXp](https://discord.gg/huHw8kzNXp)
 
 ## 🔧 Installation
 
