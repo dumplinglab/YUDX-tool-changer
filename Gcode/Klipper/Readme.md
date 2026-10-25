@@ -204,7 +204,7 @@ version and hardware before enabling the option.
 
 - `T0`, `T1`, and any added `Tn` macro select the corresponding tool.
 - `CHANGE_TOOL TOOL=n` selects a tool by ID.
-- `CHANGE_TOOL TOOL=-1` docks the current tool without picking up another.
+- `PARK_TOOL` or `CHANGE_TOOL TOOL=-1` docks the current tool without picking up another.
 - `SET_CURRENT_TOOL TOOL=n` records which tool is already mounted; use
   `SET_CURRENT_TOOL TOOL=-1` when no tool is mounted.
 
